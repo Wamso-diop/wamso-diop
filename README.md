@@ -22,7 +22,6 @@
 
 ## 🛠️ Technologies & Outils
 
-<div align="center">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +42,7 @@
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
+
 
 ---
 
@@ -88,7 +87,7 @@
 
 ## 📊 Statistiques GitHub
 
-<div align="center">
+
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wamso-diop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -96,7 +95,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wamso-diop&theme=tokyonight&hide_border=true)
 
-</div>
+
 
 ---
 
@@ -112,7 +111,6 @@
 
 ## 📫 Me contacter
 
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.blontsi624@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
@@ -128,15 +126,15 @@
 
 ## 💡 Citation Inspirante
 
-<div align="center">
+
 
 *"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* – Cory House
 
-</div>
+
 
 ---
 
-<div align="center">
+
 
 ### ⭐ N'hésitez pas à explorer mes repositories et à laisser une étoile si quelque chose vous intéresse !
 
@@ -144,4 +142,4 @@
 
 **Merci de votre visite ! 🚀**
 
-</div>
+
